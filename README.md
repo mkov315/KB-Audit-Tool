@@ -7,6 +7,8 @@ This tool is compatible with EBSCO's Holding Management package export and its p
 <br>
 The fields chosen in this program are PackageName, PackageID, VendorName, VendorID, PackageType, IsCustom, HideOnPublicationFinder, and HideOnFullTextFinder. <br>
 <br>
+This script has a pandas dependency and more information on installation and usage can be found here: https://pandas.pydata.org/ <br>
+<br>
 This tool will be used to aid in the CSU holdings audit process, but can be generalized for library institutions elsewhere. <br>
 <br>
 Mary Kate O'Leary - Wayne State University MLIS '23<br>
